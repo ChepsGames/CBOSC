@@ -1,0 +1,15 @@
+--Portuguese Translations--
+
+Português (Brasil)
+
+Edição em Desenvolvimento (Edição: {0}, Estágio de Desenvolvedor: {1})
+
+BrilliantOS Core, versão {0} ({1})
+Veja CREDITS.txt para creditos
+Obrigado por usar o BrilliantOS!
+
+Começando a baixar o pacote '{0}'
+Pacote baixado com êxito!
+Falha ao baixar o pacote. {0}
+O pacote não foi encontrado.
+Os arquivos do pacote são invalidos.
