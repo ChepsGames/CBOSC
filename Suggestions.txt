@@ -1,5 +1,6 @@
 Games Pre-installed:
 
 Minesweeper
-Geometry Dash
+Steam
+Discord
 Browser
